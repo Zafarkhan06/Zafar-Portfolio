@@ -1,24 +1,24 @@
-vCard - Personal Portfolio
+Zafar Khan Portfolio
 
 # sidebar
 
-alt = Richard hanrick
-Richard hanrick
+alt = Zafar Khan
+Zafar Khan
 Web developer
 
 Show Contacts
 
 Email
-richard@example.com
+zafarkhanbusiness9@gmail.com
 
 Phone
-+1 (213) 352-2795
+0305 5753869
 
 Birthday
-June 23, 1982
+September 15, 1999
 
 Location
-Sacramento, California, USA
+Lahore, Pakistan
 
 # navbar
 
@@ -32,17 +32,17 @@ Contact
 
 About me
 
-I'm Creative Director and UI/UX Designer from Sydney, Australia, working in web development and print media. I enjoy turning complex problems into simple, beautiful and intuitive designs.
+I'm Creative Web Developer from Lahore, Pakistan, working in web development and crypto analysis. I enjoy turning complex problems into simple, beautiful and intuitive Websites and Web Apps.
 
-My job is to build your website so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way. I created web design for many famous brand companies.
-
+My job is to build your website & web-apps so that it is functional and user-friendly but at the same time attractive. Moreover, I add personal touch to your product and make sure that is eye-catching and easy to use. My aim is to bring across your message and identity in the most creative way.
+I have around 15 months of professional experience working as Software Engineer at Techtics.AI.
 
 ## service
 
 What i'm doing
 
 alt = design icon
-Web design
+Web develop
 The most modern and high-quality design made at a professional level.
 
 alt = Web development icon
@@ -50,8 +50,8 @@ Web development
 High-quality development of sites at the professional level.
 
 alt = mobile app icon
-Mobile apps
-Professional development of applications for iOS and Android.
+Web apps
+Professional development of web apps.
 
 alt = camera icon
 Photography
